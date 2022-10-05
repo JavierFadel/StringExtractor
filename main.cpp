@@ -8,7 +8,7 @@ using namespace std;
 // TODO: string is array in c++?
 // TODO: simplify all this mess.
 // TODO: too many overkill switch (two case switch).
-// TODO: convert string to char array?
+// TODO: convert string to char array? maybe.
 
 // Main function.
 int main() {
